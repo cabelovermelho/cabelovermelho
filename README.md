@@ -1,0 +1,4 @@
+- 👀 I’m interested in hacking and pentesting
+- 🌱 I’m currently learning algorithms, information security
+- 💞️ I’m looking to collaborate on projects i find interesting
+- 📫 How to reach me ...
